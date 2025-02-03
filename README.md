@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Used car sales predictions](https://s3.amazonaws.com/talent-assets.datacamp.com/DS+Case+Study+-+Used+Car+Sales+-+Prework.pdf)
 
-- 🌱 I’m currently learning **Tableau, Polars**
+- 🌱 I’m currently learning **Gen AI and Agentic AI**
 
 - 👯 I’m looking to collaborate on **Data Science and ML projects**
 
