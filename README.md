@@ -23,9 +23,6 @@
 <p align="left">
 <a href="https://twitter.com/piyushkrtiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="piyushkrtiwari" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pikt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pikt" height="30" width="40" /></a>
-<h3 align="left">Let's have a quick chit chat:</h3>
-<p align="left">
-[![Calendar](https://img.shields.io/badge/Schedule_Meeting-Google_Calendar-4285F4?style=for-the-badge&logo=googlecalendar)](https://calendar.app.google/FsGercyJsWhBMhGr8) 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,6 +30,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piktx&show_icons=true&locale=en&layout=compact" alt="piktx" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piktx&show_icons=true&locale=en" alt="piktx" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piktx&" alt="piktx" /></p>
+
+## 📬 Let's have a quick chit chat!
+
+[![Calendar](https://img.shields.io/badge/Schedule_Meeting-Google_Calendar-4285F4?style=for-the-badge&logo=googlecalendar)](https://calendar.app.google/FsGercyJsWhBMhGr8)
