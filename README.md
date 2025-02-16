@@ -3,21 +3,15 @@
 
 <p align="left"> <a href="https://twitter.com/piyushkrtiwari" target="blank"><img src="https://img.shields.io/twitter/follow/piyushkrtiwari?logo=twitter&style=for-the-badge" alt="piyushkrtiwari" /></a> </p>
 
-- 🔭 I’m currently working on [Used car sales predictions](https://s3.amazonaws.com/talent-assets.datacamp.com/DS+Case+Study+-+Used+Car+Sales+-+Prework.pdf)
-
 - 🌱 I’m currently learning **Gen AI and Agentic AI**
 
 - 👯 I’m looking to collaborate on **Data Science and ML projects**
 
-- 🤝 I’m looking for help with [Supermarket loyalty dataset](https://projects.datacamp.com/projects/2209)
-
-- 👨‍💻 All of my projects are available at [https://piktx.github.io](https://piktx.github.io)
+- 🤝 I’m looking for help with publishing my Hugo-PaperMod powered website on Github
 
 - 💬 Ask me about **Python, SQL, Machine Learning**
 
 - 📫 How to reach me **businessbypkt@gmail.com**
-
-- ⚡ Fun fact **People think I am not funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
