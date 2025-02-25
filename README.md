@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=470&lines=Hi+there%2C+I'm+Piyush!;A+passionate+Data+Scientist+from+India" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=50&width=470&lines=Hi+there%2C+I'm+Piyush!;A+passionate+Data+Scientist+from+India" alt="Typing SVG"/></a>
 
 ### Visitor count
 ![Visitor Count](https://profile-counter.glitch.me/piktx/count.svg)
