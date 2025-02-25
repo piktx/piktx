@@ -33,7 +33,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=piktx&theme=tokyonight&show_icons=true&hide_border=true)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=piktx&bg_color=241f31&color=c061cb&line=8ff0a4&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### Some ramdomly generated jokes
+### Some ramdomly generated jokes (refresh the page to view a new joke)
 ![Jokes](https://readme-jokes.vercel.app/api)
 
 ### Trophies
