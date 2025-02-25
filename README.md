@@ -29,4 +29,4 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=piktx&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=piktx&theme=tokyonight&show_icons=true&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/streaks/username=piktx&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piktx&" alt="piktx" /></p>
