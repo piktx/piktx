@@ -29,3 +29,4 @@
 
 ## Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=piktx&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://streak-stats.demolab.com?user=piktx&theme=dark&hide_border=true)
