@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Piyush</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-<p align="left"> <a href="https://twitter.com/piyushkrtiwari" target="blank"><img src="https://img.shields.io/twitter/follow/piyushkrtiwari?logo=twitter&style=for-the-badge" alt="piyushkrtiwari" /></a> </p>
+### Visitor count
+![Visitor Count](https://profile-counter.glitch.me/piktx/count.svg)
 
 - 🌱 I’m currently learning **Gen AI and Agentic AI**
 
