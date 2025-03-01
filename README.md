@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Data Science and ML projects**
 
-- 🤝 I’m looking for help with publishing my Hugo-PaperMod powered website on Github
-
 - 💬 Ask me about **Python, SQL, Machine Learning**
 
 - 📫 How to reach me **businessbypkt@gmail.com**
@@ -27,7 +25,6 @@
 ## Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=piktx&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=piktx&theme=tokyonight&show_icons=true&hide_border=true)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=piktx&bg_color=241f31&color=c061cb&line=8ff0a4&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ### Trophies
