@@ -3,15 +3,15 @@
 ![](https://komarev.com/ghpvc/?username=piktx&label=Profile%20Visits&color=blue&style=for-the-badge)
 
 
-- 🌱 I’m currently learning **Gen AI and Agentic AI**
+ 🌱 I’m currently learning **Gen AI and Agentic AI**
 
-- 👯 I’m looking to collaborate on **Data Science and ML projects**
+ 👯 I’m looking to collaborate on **Data Science and ML projects**
 
-- 💬 Ask me about **Python, SQL, Machine Learning**
+ 💬 Ask me about **Python, SQL, Machine Learning**
 
-- 📫 How to reach me **businessbypkt@gmail.com**
+ 📫 How to reach me **businessbypkt@gmail.com**
 
-- 🌐 Here's my website: **https://pktx.xyz**
+ 🌐 Here's my website: **https://pktx.xyz**
 
 
 ## Languages and Tools:
