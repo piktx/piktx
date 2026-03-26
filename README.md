@@ -22,13 +22,5 @@
 ![Jokes](https://readme-jokes.vercel.app/api)
 
 
-## Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=piktx&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=piktx&theme=tokyonight&show_icons=true&hide_border=true)
-
-
-### Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=piktx&theme=tokyonight)
-
 ## 📬 Let's have a quick chit chat!
 [![Calendar](https://img.shields.io/badge/Schedule_Meeting-Google_Calendar-4285F4?style=for-the-badge&logo=googlecalendar)](https://calendar.app.google/FsGercyJsWhBMhGr8)
